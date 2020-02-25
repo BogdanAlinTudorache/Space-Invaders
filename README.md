@@ -17,4 +17,10 @@ Basic space invaders game written in Python 3 and developed in Pycharm IDE
 	
 	
 	Go to File -> Settings -> Project -> Project Interpreter -> click on + to add pygame.
+	
+ # Controls
+    Move defender player with up and down arrows
+
+  # Background and player images have to be downloaded and in the same folder as game file.
+
   
