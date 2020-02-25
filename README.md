@@ -13,10 +13,7 @@ Basic space invaders game written in Python 3 and developed in Pycharm IDE
     1. Download Community Edition: https://www.jetbrains.com/pycharm/download/#section=windows
     2. Run pycharm-community-2019.3.1.exe
 		
-  How to add pygames to Pycharm?
-	
-	
-	Go to File -> Settings -> Project -> Project Interpreter -> click on + to add pygame.
+ 	Pygame is not necessary, only turtle module.
 	
  # Controls
     Move defender player with LEFT and RIGHT arrows
