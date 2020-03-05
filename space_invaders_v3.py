@@ -48,8 +48,7 @@ player.speed(0)
 player.setposition(0, -250)
 player.setheading(90)
 
-playerspeed = 15
-
+playerspeed = 20
 # Choose the number of enemies
 number_of_enemies = 5
 #Create an empty list of enemies
